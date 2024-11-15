@@ -13,7 +13,7 @@ canvas {
     background: #eee; 
     display: block;
     margin: 0 auto;
-    border-radius: 0.25rem;
+    border-radius: 0.5rem;
 }
 
 header {
